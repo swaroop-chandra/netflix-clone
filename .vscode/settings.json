@@ -1,0 +1,9 @@
+{
+    "emmet.preferences": {
+        "javascript": "javascriptreact",
+        "plaintext": "pug"
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    }
+}
